@@ -1,0 +1,3 @@
+G:\c++\Mostenire\Debug\Mostenire.exe
+C:\Users\claud\OneDrive\Desktop\Mostenire\Debug\Mostenire.exe
+C:\Users\claud\OneDrive\Desktop\Mostenire_Magazin\Debug\Mostenire.exe
